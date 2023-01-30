@@ -9,5 +9,17 @@ add(30, 20);
 function adds(num1, num2) {
 	return num1 + num2;
 }
-var total2 = adds(10, 20);
+var number1 = 10;
+var number2 = 20;
+var total2 = adds(number1, number2);
 console.log(total2);
+
+// Function with return
+function bringSingara(money) {
+	const singaraPrice = 10;
+	const singara = money / singaraPrice;
+	return singara;
+}
+
+const numberOfSingara = bringSingara(200);
+console.log(numberOfSingara);
