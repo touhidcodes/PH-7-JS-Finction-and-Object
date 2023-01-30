@@ -21,5 +21,5 @@ computer.shop = "jsr";
 console.log(computer);
 
 // // All object keys and values
-// computer.key;
-// computer.value;
+// Object.keys;
+// Object.values;
