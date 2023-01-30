@@ -1,0 +1,1 @@
+function check(a, b) {}
